@@ -1,2 +1,2 @@
 # theme-wordpress
-tuti creation de theme
+tuto creation de theme wordpress
